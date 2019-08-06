@@ -2,10 +2,11 @@
 
 Foo Bar and Baz 
 
-> Day 1 [08/05] @anisaha 
+> Day 1 [08/05] @anisaha :white_check_mark:
 
 - [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | Math
 - [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | Math
+- [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) 
 
 > Day 2 [08/06] @sharmanemo1994
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
@@ -28,4 +29,6 @@ Foo Bar and Baz
 
 - [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | DP
 - [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | Math, Greedy
+- [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+
 
