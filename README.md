@@ -9,7 +9,7 @@ Foo Bar and Baz
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) 
 
 > Day 2 [08/06] @sharmanemo1994
-- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
 - [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 - [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
 
