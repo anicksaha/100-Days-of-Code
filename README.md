@@ -8,6 +8,7 @@ Foo Bar and Baz
 - [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | Math
 
 > Day 2 [08/06] @sharmanemo1994
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
 
 > Day 3 [08/07] @anjana1909
 
