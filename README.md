@@ -22,5 +22,8 @@ Foo Bar and Baz
 
 > Day 6 [08/10] @anjana1909
 
-> 
+> Day 7 [08/11] @anisaha
+
+- [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | DP
+- [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | Math, Greedy
 
