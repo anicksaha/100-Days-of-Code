@@ -13,7 +13,7 @@ Foo Bar and Baz
 
 > Day 4 (08/08) @anisaha
 
-- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | String
 
 > Day 5 (08/09) @sharmanemo1994
 
