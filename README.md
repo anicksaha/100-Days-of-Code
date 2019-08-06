@@ -15,8 +15,12 @@ Foo Bar and Baz
 > Day 4 [08/08] @anisaha
 
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | String
+- [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | DP
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | DP
 
 > Day 5 [08/09] @sharmanemo1994
 
 > Day 6 [08/10] @anjana1909
+
+> 
 
