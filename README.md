@@ -28,6 +28,11 @@ Foo Bar and Baz
 - [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | DP
 - [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | Math, Greedy
 
+> Day 7 [08/11] @anisaha
+- [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
+
+
 
 
 
