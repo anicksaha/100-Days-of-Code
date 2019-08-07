@@ -13,7 +13,7 @@ Foo Bar and Baz
 - [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | Hash Table
 
 > Day 3 [08/07] @sharmanemo1994
-- [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+- [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | String, Stack 
 
 > Day 4 [08/08] @sharmanemo1994
 - [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
