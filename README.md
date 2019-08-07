@@ -8,7 +8,7 @@ Foo Bar and Baz
 - [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | Math
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) 
 
-> Day 2 [08/06] @sharmanemo1994
+> Day 2 [08/06] @sharmanemo1994 :white_check_mark:
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
 - [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 
