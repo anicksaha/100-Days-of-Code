@@ -54,6 +54,7 @@ Foo Bar and Baz
 
 > Day 14 [08/18] @anisaha
 - [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
+- [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
 
 > Day 15 [08/19] @anisaha
 - [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
