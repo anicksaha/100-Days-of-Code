@@ -30,12 +30,16 @@ Foo Bar and Baz
 
 > Day 7 [08/11] @anisaha
 - [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
-- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
 > Day 8 [08/12] @anisaha
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
+
+> Day 9 [08/13] @anisaha
+- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
+
+> Day 10 [08/14] @anisaha
 - [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
 - [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
-
 
 
 
