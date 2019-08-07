@@ -59,6 +59,7 @@ Foo Bar and Baz
 > Day 15 [08/19] @anisaha
 - [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
 
-
+> Day 16[08/20] @anisaha
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
 
 
