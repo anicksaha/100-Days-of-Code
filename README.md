@@ -24,6 +24,7 @@ Foo Bar and Baz
 
 > Day 6 [08/10] @anisaha
 - [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+- [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
 > Day 7 [08/11] @anisaha
 - [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | DP
