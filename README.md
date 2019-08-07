@@ -19,10 +19,12 @@ Foo Bar and Baz
 - [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
 - [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/)
 
+
 > Day 5 [08/09] @anisaha :white_check_mark:
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | Euclid's algorithm, Euclidean algorithm
+- [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/)
 
-> Day 6 [08/10] @anisaha
+> Day 6 [08/10] @anisaha :white_check_mark:
 - [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
