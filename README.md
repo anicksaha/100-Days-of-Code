@@ -20,7 +20,7 @@ Foo Bar and Baz
 - [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/)
 
 > Day 5 [08/09] @anisaha :white_check_mark:
-- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | Euclid's algorithm, Euclidean algorithm
 
 > Day 6 [08/10] @anisaha
 - [443. String Compression](https://leetcode.com/problems/string-compression/description/)
