@@ -29,24 +29,24 @@ Foo Bar and Baz
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
 > Day 7 [08/11] @anisaha
+- [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
+
+> Day 8 [08/12] @anisaha
+- [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)
+
+> Day 9 [08/13] @anisaha
+- [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
+
+> Day 10 [08/14] @anisaha
 - [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | DP
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | DP
 
-> Day 8 [08/12] @anisaha
-- [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | DP
-- [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | Math, Greedy
-
-> Day 9 [08/13] @anisaha
-- [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
-
-> Day 10 [08/14] @anisaha
-- [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)
-
 > Day 11 [08/15] @anisaha
-- [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
 > Day 12 [08/16] @anisaha
-- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
+- [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | DP
+- [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | Math, Greedy
 
 > Day 13 [08/17] @anisaha
 - [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
