@@ -17,6 +17,7 @@ Foo Bar and Baz
 
 > Day 4 [08/08] @sharmanemo1994 :white_check_mark:
 - [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+- [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/)
 
 > Day 5 [08/09] @anisaha :white_check_mark:
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
