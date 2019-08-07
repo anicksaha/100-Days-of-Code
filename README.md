@@ -37,15 +37,21 @@ Foo Bar and Baz
 - [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
 
 > Day 10 [08/14] @anisaha
-- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
+- [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)
 
 > Day 11 [08/15] @anisaha
-- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
+- [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
 
 > Day 12 [08/16] @anisaha
-- [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
 > Day 13 [08/17] @anisaha
+- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
+
+> Day 14 [08/18] @anisaha
+- [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
+
+> Day 15 [08/19] @anisaha
 - [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
 
 
