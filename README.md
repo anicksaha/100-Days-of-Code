@@ -30,6 +30,7 @@ Foo Bar and Baz
 
 > Day 7 [08/11] @anisaha
 - [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
+- [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/)
 
 > Day 8 [08/12] @anisaha
 - [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)
