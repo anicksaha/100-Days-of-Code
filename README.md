@@ -12,13 +12,13 @@ Foo Bar and Baz
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | LL
 - [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | Hash Table
 
-> Day 3 [08/07] @sharmanemo1994
+> Day 3 [08/07] @sharmanemo1994 :white_check_mark:
 - [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | String, Stack 
 
 > Day 4 [08/08] @sharmanemo1994
 - [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
 
-> Day 5 [08/09] @anisaha
+> Day 5 [08/09] @anisaha :white_check_mark:
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 
 > Day 6 [08/10] @anisaha
