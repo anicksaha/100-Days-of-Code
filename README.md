@@ -32,6 +32,10 @@ Foo Bar and Baz
 - [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
 - [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
+> Day 8 [08/12] @anisaha
+- [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
+- [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
+
 
 
 
