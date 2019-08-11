@@ -72,3 +72,10 @@ Foo Bar and Baz
 
 > Day 19 [08/23] @anisaha
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
+
+> Day 20 [08/24] @anjana1909
+- [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/contest/weekly-contest-149/problems/swap-for-maximum-repeated-substring/)
+- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+
+> Day 21 [08/25] @anjana1909
+- [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
