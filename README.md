@@ -67,3 +67,5 @@ Foo Bar and Baz
 - [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
+> Day 18 [08/22] @anisaha
+- [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
