@@ -82,3 +82,6 @@ Foo Bar and Baz
 
 > Day 22 [08/26] @sharmanemo1994
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+> Day 23 [08/27] @shamanemo1994
+- [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
