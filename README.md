@@ -85,3 +85,4 @@ Foo Bar and Baz
 
 > Day 23 [08/27] @shamanemo1994
 - [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
+- [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
