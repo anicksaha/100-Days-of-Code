@@ -83,6 +83,18 @@ Foo Bar and Baz
 > Day 22 [08/26] @sharmanemo1994
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
-> Day 23 [08/27] @shamanemo1994
+> Day 23 [08/27] @sharmanemo1994
 - [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 - [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+
+> Day 24 [08/28] @sharmanemo1994
+- [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+> Day 25 [08/29] @sharmanemo1994
+- [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+
+> Day 26 [08/30] @sharmanemo1994
+- [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+
+> Day 27 [08/31] @sharmanemo1994
+- [640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/)
