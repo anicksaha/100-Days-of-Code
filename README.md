@@ -98,3 +98,27 @@ Foo Bar and Baz
 
 > Day 27 [08/31] @sharmanemo1994
 - [640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/)
+
+> Day 28 [09/01] @sharmanemo1994
+- [1163. Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+
+> Day 29 [09/02] @sharmanemo1994
+- [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+
+> Day 30 [09/03] @sharmanemo1994
+- [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
+
+> Day 31 [09/04] @sharmanemo1994
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+> Day 32 [09/05] @sharmanemo1994
+- [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+
+> Day 33 [09/06] @sharmanemo1994
+- [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+
+> Day 34 [09/07] @sharmanemo1994
+- [752. Open the Lock](https://leetcode.com/problems/open-the-lock/)
+
+> Day 35 [09/08] @sharmanemo1994
+- [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)
