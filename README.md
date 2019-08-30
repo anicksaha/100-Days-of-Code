@@ -123,5 +123,5 @@ Foo Bar and Baz
 > Day 35 [09/08] @sharmanemo1994
 - [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)
 
-> Day 36 [09/09] @sharmanemo1994
-- [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+> Day 36 [09/09] @sharmanemo1994 :white_check_mark:
+- [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | DP 
