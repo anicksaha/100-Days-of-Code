@@ -128,3 +128,6 @@ Foo Bar and Baz
 
 > Day 37 [09/10] @anisaha :white_check_mark:
 - [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) | Greedy
+
+> Day 38 [09/11] @anisaha :white_check_mark:
+- [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
