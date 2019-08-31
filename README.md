@@ -134,3 +134,6 @@ Foo Bar and Baz
 
 > Day 39 [09/12] @anisaha :white_check_mark:
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
+
+> Day 40 [09/13] @anisaha :white_check_mark:
+- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
