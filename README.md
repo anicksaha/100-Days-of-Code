@@ -125,3 +125,6 @@ Foo Bar and Baz
 
 > Day 36 [09/09] @sharmanemo1994 :white_check_mark:
 - [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | DP 
+
+> Day 37 [09/10] @anisaha :white_check_mark:
+- [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) | Greedy
