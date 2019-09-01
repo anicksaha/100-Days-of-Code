@@ -140,3 +140,12 @@ Foo Bar and Baz
 
 > Day 41 [09/14] @anisaha 
 - [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)
+
+> Day 42 [09/15] @sharmanemo1994
+- [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
+> Day 43 [09/16] @sharmanemo1994
+- [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+
+> Day 44 [09/17] @sharmanemo1994
+- [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
