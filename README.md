@@ -138,5 +138,5 @@ Foo Bar and Baz
 > Day 40 [09/13] @anisaha :white_check_mark:
 - [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 
-> Day 41 [09/14]
+> Day 41 [09/14] @anisaha 
 - [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)
