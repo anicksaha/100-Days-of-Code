@@ -151,4 +151,4 @@ Foo Bar and Baz
 - [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 
 > Day 45 [09/18] @anisaha
-- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | pp (pointer to a pointer)
