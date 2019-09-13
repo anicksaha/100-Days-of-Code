@@ -155,3 +155,6 @@ Foo Bar and Baz
 
 > Day 46 [09/19] @anisaha
 - [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/)
+
+> Day 47 [09/20] @sharmanemo1994
+- [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
